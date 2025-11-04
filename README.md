@@ -151,7 +151,7 @@ wordle-game/
    - Proper error handling for missing files
 
 2. **Random Selection**
-   - Uses Java's `Random` class for cryptographically secure word selection
+   - Uses Java's `Random` class for pseudo-random word selection
    - Ensures fair and unpredictable gameplay
 
 3. **Input Validation**
