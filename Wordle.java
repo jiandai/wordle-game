@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-public class teachfile1
+public class Wordle
 {
     private static final int MAX_ATTEMPTS = 6;
     private static final int WORD_LENGTH = 5;
