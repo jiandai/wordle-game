@@ -1,0 +1,17 @@
+Please read the following project specs:
+
+**Implement Wordle**
+
+In this project, a list of all 5-letter English words is given as wordle.txt
+A template Java code is available called teachfile1.java that we will take as a starting point.
+In this template, the code to extract everything from wordle.txt is ready, which will save the English library into an ArrayList. 
+
+Requirements:
+Use this list and some kind of random function to grab a word. 
+The game should function EXACTLY like the New York Times version of wordle. 
+Your program will grab a random word from the list. 
+The user MUST choose the valid words in each turn. 
+Using an invalid word would result in the user having to choose another word. 
+Your program must indicate whether a letter exists or is in the right spot after user input 
+Beware that you may need to reset the path of the filename within the main file. 
+
